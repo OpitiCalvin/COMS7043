@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # hw
 
 This is an official repository for
@@ -5,3 +6,6 @@ This is an official repository for
 
 To learn about how to submit assignments for COMS4037, read
 [`hw0`](https://github.com/WITS-COMS4037/hw/tree/master/hw0).
+=======
+# 1408593
+>>>>>>> origin/master
